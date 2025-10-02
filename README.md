@@ -1,1 +1,1 @@
-# Compare-the-Triplets-algo
+# Compare-the-Triplets-algo This program compares two lists of integers (Alice’s and Bob’s scores) element by element, awarding a point to the person with the higher value at each position. It then prints the total points for Alice and Bob as a list of two numbers.
